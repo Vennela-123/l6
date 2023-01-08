@@ -1,2 +1,1 @@
-# lvl-6 FULL-APP vennela
-
+# lvl-6 FULL-APP 
